@@ -8,7 +8,7 @@
 10018  mate ~/.gitconfig
 10020  git init project1
 10021  cd project1
-10022  ls
+10022  ls -a
 10023  ls -al
 10024  open .git
 10025  echo //Test >> first.groovy
